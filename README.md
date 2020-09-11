@@ -1,5 +1,6 @@
 # V2Ray Heroku
-
+# 原始作者：https://github.com/bclswl0827/v2ray-heroku
+# 最近很多作者的优秀作品陆续转为私有甚至删库。个人认为比较有学习意义的项目就备份下来，留作学习。请勿其他用途
 ## 概述
 
 用于在 Heroku 上部署 V2Ray Websocket。
@@ -14,7 +15,7 @@
 
 本镜像不会因为大量占用资源而被封号。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fbclswl0827%2Fv2ray-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fshyperwang%2Fv2ray-heroku-self)
 
 ## ENV 设定
 
