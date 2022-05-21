@@ -1,5 +1,5 @@
 # V2Ray Heroku
- 原始作者：https://github.com/bclswl0827/v2ray-heroku
+ 
 # 最近很多作者的优秀作品陆续转为私有甚至删库。个人认为比较有学习意义的项目就备份下来，留作学习。请勿其他用途
 ## 概述
 
